@@ -59,7 +59,7 @@ export default {
 
 <style scoped>
 .coffee-navbar {
-  background-color: #ff6e06; /* น้ำตาลกาแฟ */
+  background-color: #dcda99; /* น้ำตาลกาแฟ */
   width: 100%;
   padding: 10px 0;
 }
@@ -84,11 +84,11 @@ export default {
 }
 
 .coffee-navbar .nav li a:hover {
-  background-color: #ff9737;
+  background-color: #cac843;
 }
 
 .coffee-navbar .nav li a.router-link-active {
-  background-color: #ff9a6b;
+  background-color: #fffb1e;
 }
 
 .clearfix {
